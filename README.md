@@ -9,7 +9,7 @@
 
 🎓 Sou formado em direito, advoguei por aproximadamente 8 anos na área pública e privada, mas sempre fui apaixonado por tecnologia. No começo de 2021 resolvi sair da minha zona de conforto e, em busca da minha transição de carreira, foquei nos estudos e agora estou me preparando para ser um desenvolvedor fullstack.
 
-:books: Atualmente estou estudando Javascript, NodeJS, CSS, React e tenho muito interesse em Phyton.
+:books: Atualmente estou estudando Javascript, NodeJS, HTML, CSS, React e tenho muito interesse em Phyton.
 
 👨‍💻 Estou buscando uma oportunidade de trabalho, aprendizado e crescimento, além de também para agregar com minhas experiências pessoais e profissionais, onde aprendi muito, especialmente sobre organização, compromisso, comunicação, trabalho em equipe e resolução de conflitos.
 
