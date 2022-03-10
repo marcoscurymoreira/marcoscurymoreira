@@ -17,13 +17,13 @@
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/marcos-cury-moreira/" target="_blank" >
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 </a>
 
-<a href="mailto:quinhopd@gmail.com">
+<a href="mailto:quinhopd@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  
-<a href="https://www.instagram.com/marcoscurymoreira">
+<a href="https://www.instagram.com/marcoscurymoreira" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 </p>
