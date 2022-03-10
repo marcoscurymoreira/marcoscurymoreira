@@ -7,12 +7,11 @@
 
 :bowtie: Sou o Marcos Moreira, apaixonado por motociclismo, viagens, games e tecnologia.
 
-🎓 Sou formado em direito, advoguei por aproximadamente 8 anos na área pública e privada, mas sempre fui apaixonado por tecnologia. No começo de 2021 resolvi sair da minha zona de conforto e, em busca da minha transição de carreira, foquei nos estudos e agora estou me preparando para ser um desenvolvedor fullstack.
+:desktop_computer: Desenvolvedor em evolução. Meu primeiro contato com a área de tecnologia foi em abril/2021, através do bootcamp da Gama Academy, o Gama Experience, com foco na formação full-stack e habilidades comportamentais.
 
-:books: Atualmente estou estudando Javascript, NodeJS, HTML, CSS, React e tenho muito interesse em Phyton.
+🎓 Advogado por formação, decidi sair da minha zona de conforto e materializar minha paixão pela tecnologia, inovações e o quanto elas podem impactar e melhorar a sociedade.
 
-👨‍💻 Estou buscando uma oportunidade de trabalho, aprendizado e crescimento, além de também para agregar com minhas experiências pessoais e profissionais, onde aprendi muito, especialmente sobre organização, compromisso, comunicação, trabalho em equipe e resolução de conflitos.
-
+:books: Sigo em constante estudo para aprendizado e evolução.
 
 
 
