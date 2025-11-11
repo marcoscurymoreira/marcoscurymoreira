@@ -5,13 +5,11 @@
 
 <br></br>
 
-:bowtie: Sou o Marcos Moreira, apaixonado por motociclismo, viagens, games e tecnologia.
+:bowtie: Sou o Marcos Moreira, desenvolvedor full stack em constante evolução. Apaixonado por motociclismo, viagens, games e tecnologia.
 
-:desktop_computer: Desenvolvedor em evolução. Meu primeiro contato com a área de tecnologia foi em abril/2021, através do bootcamp da Gama Academy, o Gama Experience, com foco na formação full-stack e habilidades comportamentais.
+:desktop_computer: Advogado por formação, decidi migrar de carreira e materializar minha paixão pela tecnologia, inovações e o quanto elas podem impactar e melhorar a sociedade.Meu primeiro contato com a área de tecnologia foi em 2021, através do bootcamp Gama Experience (Gama Academy), onde desenvolvi habilidades técnicas em desenvolvimento full stack e competências comportamentais voltadas para trabalho em equipe e resolução de problemas.Desde então, participei de diversos projetos que geraram valor real e ampliaram minha visão sobre produtos digitais, boas práticas de código e colaboração entre times
 
-🎓 Advogado por formação, decidi sair da minha zona de conforto e materializar minha paixão pela tecnologia, inovações e o quanto elas podem impactar e melhorar a sociedade.
-
-:books: Sigo em constante estudo para aprendizado e evolução.
+:books: Sigo em aprendizado contínuo, aprimorando minhas habilidades e buscando contribuir cada vez mais com soluções que façam a diferença.
 
 
 
